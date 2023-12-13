@@ -22,6 +22,5 @@ HTML5/CSS3: Proficient in creating well-structured and responsive web pages.
 JavaScript: Experience in building dynamic and interactive user interfaces.
 React.js: Skilled in developing single-page applications using React.js.
 Version Control: Familiar with Git and GitHub for version control.
-Projects
 
 ![Untitled](https://github.com/bobyTopG/PortfolioWebProject/assets/106580794/f58829d5-62af-469d-9744-373a0e47e047)
