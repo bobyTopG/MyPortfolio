@@ -1,4 +1,4 @@
-![Untitled](https://github.com/bobyTopG/Portfolio_Web_Project/assets/106580794/319f3f74-2031-4737-bc88-4ab08e9fdd44)My Portfolio
+My Portfolio
 
 Welcome to my personal portfolio repository! This repository showcases my skills and projects related to front-end development.
 
