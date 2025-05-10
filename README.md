@@ -13,7 +13,7 @@ I'm deeply passionate about the intersection of design and technology, and I thr
 - **Languages:** HTML5, CSS3, JavaScript
 - **Frameworks:** .Net
 - **Styling:** css
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, GitLab
 - **Tools:** VS Code, npm
 - **Testing:** Jest, React Testing Library
 
